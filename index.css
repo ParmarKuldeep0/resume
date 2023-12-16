@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: 
+    #48cae4;
+}
+header{
+    margin: 48px 0 24px 0;
+    text-shadow: 2px 2px 4px #ababab;
+}
+
+section{
+    margin: auto;
+}
+
+footer{
+
+}
+
+#main-img{
+    background-image: url('https://static-ai.asianetnews.com/images/01gpzw89epynh6a8y5byxfakjn/nsg-15.jpg');
+    width: 500px;
+    height: 450px;
+    background-blend-mode: color-burn;
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Times New Roman', 'Times',' serif';
+}
